@@ -1,0 +1,2 @@
+模型文件见release
+https://github.com/LuoyrGayou01/mmcls/releases/download/v1.0/latest.pth
